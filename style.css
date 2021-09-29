@@ -8,6 +8,10 @@ button:focus {
 .font-size-17 {
   font-size: 17px;
 }
+.font-size-22 {
+  font-size: 22px;
+  font-weight: 700;
+}
 body {
   margin: 0;
   padding: 0;
@@ -42,7 +46,9 @@ a:hover {
   z-index: 100000;
   background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.bloc-lg-4 {
+  padding-top: 35px;
+}
 .bloc {
   width: 100%;
   clear: both;
@@ -800,7 +806,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-  background: #c55300 !important;
+  background: #f36c6c !important;
   color: #ffffff !important;
 }
 
@@ -813,7 +819,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #d74100 !important;
+  color: #f36c6c !important;
 }
 
 .ltc-atomic-tangerine:hover {
